@@ -140,8 +140,6 @@ class ViewController: UIViewController {
         gradientBSlider.value = 0
     }
     
-    
-    
 //    @IBAction func changeSwitch(_ sender: UISwitch) {
 //        if gridSwitch.isOn{
 //            let image = UIImage(named: "middle")
@@ -154,7 +152,7 @@ class ViewController: UIViewController {
 //        }
     
     
-   
+     
        
     //左slider:頭髮漸層
     @IBAction func gradientActionSlider(_ sender: UISlider) {
